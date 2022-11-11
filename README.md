@@ -2,7 +2,7 @@
 I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands what they could do with to optimize their product portfolio
 
 ## Table of Contents
-[About the Dataset](#About the Dataset)
+[About the Dataset](#about-the-dataset)
 
 
 ## About the Dataset
