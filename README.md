@@ -5,7 +5,7 @@ I used the dataset - Iowa Liquor Sale to recommend Jim Beam Brands what they cou
 
 This dataset contains the spirits purchase information of Iowa Class “E” liquor licensees by product and date of purchase from January 1, 2012 to current.
 
-There are total 25.1 million rows with 24 columns, each row is a individual product purchase.
+There are total 25.1 million rows with 24 columns, each row is an individual product purchase.
 
 You can find it on Bigquery public dataset or access the same via the link:
 [https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
