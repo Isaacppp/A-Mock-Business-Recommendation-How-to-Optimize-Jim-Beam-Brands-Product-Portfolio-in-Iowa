@@ -1,7 +1,8 @@
 # How to Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area
-I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands what they could do with their product portfolio
+I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands what they could do with to optimize their product portfolio
 
 ## Table of Contents
+[About the Dataset](#About the Dataset)
 
 
 ## About the Dataset
