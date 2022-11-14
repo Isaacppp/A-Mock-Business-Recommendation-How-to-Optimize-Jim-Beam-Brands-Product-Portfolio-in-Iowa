@@ -1,4 +1,4 @@
-# How to Optimize Jim Beam Brands Product Portfolio in Iowa
+# A Mock Business Recommendation: How to Optimize Jim Beam Brands Product Portfolio in Iowa
 
 ## Introduction
   
