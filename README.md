@@ -6,6 +6,7 @@
   
   For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
   
+  
   1. For Whiskey products:
       The company should maintain current amount of investment in this category and generate as much as profit as possible. And use the capital in other area such as diversification of their production line.
   
