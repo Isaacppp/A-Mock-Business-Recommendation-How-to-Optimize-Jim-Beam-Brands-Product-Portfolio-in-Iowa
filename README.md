@@ -25,7 +25,7 @@
   - [Limitation of This Analysis] (#limitation-of-this-analysis)
 
 
-## About the Dataset
+### About the Dataset
 
   - This dataset contains the spirits purchase information of Iowa Class “E” liquor licensees by product and date of purchase from January 1, 2012 to current.
 
@@ -35,13 +35,13 @@
   [https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
 
 
-## About My Work
+### About My Work
   
   - Data exploration, extraction, process and analyzing is done by Google Bigquery. As I used free version of Bigquery, you might find the data cleaning process unlike normal practice as the DML is not available in free version.
 
   - Visualization: Microsoft Power BI
 
-## Limitation in This Analysis
+### Limitation of This Analysis
 
   - This analysis is for the sale portfolio in Iowa area only.
   
