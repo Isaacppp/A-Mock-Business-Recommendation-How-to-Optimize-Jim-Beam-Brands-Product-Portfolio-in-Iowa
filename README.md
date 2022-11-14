@@ -26,7 +26,7 @@
   - [Data Cleaning](#data-cleaning)
   - [Data Analyzing](#data-analyzing)
   - [Key Takeaways](#key-takeaways)
-  - [Business Recommendation](#business-recommendation)
+  - [Business Recommendation/ Solutions](#business-recommendation)
   - [Next Step](#next-step)
   - [References](#reference)
 
@@ -217,7 +217,7 @@ Other than Tequila, the growing momentum started to decline in other categories 
 
 4. Tequila is the most active market with CAGR of 11.67% over Q3 2012- Q3 2022 and meantime has the best momentum in growth rate compared to all other categories.
 
-## Business Recommendation/ Solution
+## Business Recommendation/ Solutions
 
 - Whiskey: The company should maintain current amount of investment in this category and generate as much as profit as possible. And use the capital in other area such as diversification of their production line.
     
