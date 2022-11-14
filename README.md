@@ -4,7 +4,7 @@
   
   I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
 
-## Solutions
+## Business Recommendation/ Solutions
 
   For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
   
@@ -26,7 +26,7 @@
   - [Data Cleaning](#data-cleaning)
   - [Data Analyzing](#data-analyzing)
   - [Key Takeaways](#key-takeaways)
-  - [Business Recommendation/ Solutions](#business-recommendation)
+  - [Business Recommendation/ Solutions](#business-recommendation/-solutions)
   - [Next Step](#next-step)
   - [References](#reference)
 
@@ -216,14 +216,6 @@ Other than Tequila, the growing momentum started to decline in other categories 
 3. Jim Beam Brands most competitive category by relative market share is “Whiskey” (64%), then “Tequila” (23%) follows.
 
 4. Tequila is the most active market with CAGR of 11.67% over Q3 2012- Q3 2022 and meantime has the best momentum in growth rate compared to all other categories.
-
-## Business Recommendation/ Solutions
-
-- Whiskey: The company should maintain current amount of investment in this category and generate as much as profit as possible. And use the capital in other area such as diversification of their production line.
-    
-- Tequila: The company should invest more in this category and try to get as much as market share before the category market growth slow down.
-    
-- Brandy, Cocktails/ RTD, Cordials/ Liqueurs, Vodka, Rum and Gin: Unless there are some other strategic aim, the company should start to gradually divest from these markets and re-allocate the capital to other categories. Especially Rum and Gin, as they have the least growth rate (near 0%) since 2012.
 
 ## Next Step
 
