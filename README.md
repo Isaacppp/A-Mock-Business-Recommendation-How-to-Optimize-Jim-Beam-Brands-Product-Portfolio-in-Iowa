@@ -4,7 +4,7 @@
   
   I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
 
-## Business Recommendation/ Solutions
+## Business Recommendation
 
   For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
   
@@ -26,7 +26,7 @@
   - [Data Cleaning](#data-cleaning)
   - [Data Analyzing](#data-analyzing)
   - [Key Takeaways](#key-takeaways)
-  - [Business Recommendation/ Solutions](#business-recommendation/-solutions)
+  - [Business Recommendation](#business-recommendation)
   - [Next Step](#next-step)
   - [References](#reference)
 
