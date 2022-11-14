@@ -242,7 +242,7 @@ Other than Tequila, the growing momentum started to decline in other categories 
 
 - Rum and Gin: As these two markets have the least growth rate over the past 10 year, I prioritize these two to look into which product(s) that they can start to liquidate. Meantime, the data of profitability of each product is also required. (not available for the time being)
 
-- On the aspect of qualitative questions about customer, I want to investigate further to see if any shift about the preference in category to strengthen my recommendation. In addition, I will investigate if there's a change on the price acceptance as the main market of Jim Beam Brands lies in <= USD 100 per bottle.
+- On the aspect of qualitative questions about customers, I want to investigate further to see if there's any shift about the preference in category to strengthen my recommendation. In addition, I will investigate if there's a change in price acceptance as the main market of Jim Beam Brands lies in <= USD 100 per bottle.
 
 ## References
 
