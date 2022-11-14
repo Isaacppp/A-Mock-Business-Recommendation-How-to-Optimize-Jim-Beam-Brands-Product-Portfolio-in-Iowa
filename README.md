@@ -131,7 +131,7 @@ There wasn't "the who" at the beginning. So, I took a look to see the ranking of
 ![Overall Market Share](https://user-images.githubusercontent.com/95849080/201589134-387fbc74-e8e8-4edb-beab-9358f8700984.jpg)
 
 After going over the ranking, I want to go with the analysis to help Jim Beam Brands, 3rd largest vendors by market share.
-Reason being: They have room to grow and I simply love this brand.
+Reason being: They have room to grow and I like their whiskey.
 
 #### 2. Define the market where their products stand
 
