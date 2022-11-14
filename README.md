@@ -67,6 +67,7 @@
 #### Fact
 
 - [bottles_sold], [sale_dollars]
+
   * Checked the outliers
   * Turned negative values to positive
   * The record in “0” is not meaningful in the sale analysis case, thus, they are excluded from the analysis
@@ -75,6 +76,7 @@
 #### Liquor
 
 - [category_name], [item_description]
+
   * Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
   * 25,040 records were missing, retrieved the records by what are contained in item_description. Assign category as “Others” to those cannot be found in the end
   * Categories contain sub-genres that are trivial and difficult to comprehend
@@ -89,6 +91,7 @@
 ##### Vendor
 
 - [vendor_name]
+
   * Exclude NULL values (7 records with total 102 bottles missing)
   * Cleaned for the name consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
 
