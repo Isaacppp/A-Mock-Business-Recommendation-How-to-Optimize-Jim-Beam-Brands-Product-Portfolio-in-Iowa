@@ -59,7 +59,7 @@
   
   3. Details of cleaning:
 
-  [category_name]
+[category_name]
 
   - Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
 
