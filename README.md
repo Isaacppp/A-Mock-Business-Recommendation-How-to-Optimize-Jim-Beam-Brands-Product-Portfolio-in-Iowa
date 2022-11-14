@@ -79,8 +79,6 @@ I will answer the quantitative problems and then investigate further on qualitat
   
 #### 2. Details of Cleaning
 
-[[Check Full Code Here]](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/data_cleaning_full_queries)
-
 #### Fact
 
 - [bottles_sold], [sale_dollars]
@@ -115,6 +113,7 @@ I will answer the quantitative problems and then investigate further on qualitat
   * Cleaned for the name consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
 
 [Check query record Here](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/query_record_vendor_cleaning)
+[[Check Full Code Here]](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/data_cleaning_full_queries)
 
 ## Data Analyzing
 
