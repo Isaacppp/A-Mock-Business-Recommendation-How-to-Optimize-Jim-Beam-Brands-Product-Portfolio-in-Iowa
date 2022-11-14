@@ -4,7 +4,13 @@
   
   I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
   
-## Solutions
+## Table of Contents
+  - [Solutions](#solutions)
+  - [About the Dataset](#about-the-dataset)
+  - [About My Work](#about-my-work)
+  - [Limitation of This Analysis](#limitation-of-this-analysis)
+
+### Solutions
 
   For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
   
@@ -18,12 +24,6 @@
       Unless there are some other strategic aim, the company should start to gradually divest from these markets and re-allocate the capital to other categories.
       
       Especially Rum and Gin, as they have the least growth rate (near 0%) since 2012.
-  
-## Table of Contents
-  - [About the Dataset](#about-the-dataset)
-  - [About My Work](#about-my-work)
-  - [Limitation of This Analysis] (#limitation-of-this-analysis)
-
 
 ### About the Dataset
 
