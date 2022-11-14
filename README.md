@@ -1,6 +1,6 @@
-# A Mock Business Recommendation: How to Optimize Jim Beam Brands Product Portfolio in Iowa
+# A Mock Business Recommendation: How to Optimize Jim Beam Brands Product Portfolio in Iowa Area
 
-## Introduction
+## Introduction to This Project
   
 This is a self-curated project using real world data - the "Iowa Liquor Sale".
 
@@ -12,7 +12,7 @@ I queried the dataset in Google #Bigquery, and picked Jimbeam as the vendor in t
 
 #### Disclaimer:
 
-**The material and the information contained in this presentation and in any documentation attached to it are for my solely case study purpose only. It does not constitute an offer, true business recommendation to any person.**
+**The material and the information contained in this presentation and in any documentation attached to it are for my personal case study purpose only. It does not constitute an offer, true business recommendation to any person and/ or organization.**
 
 ## Business Recommendation
 
@@ -45,7 +45,7 @@ I queried the dataset in Google #Bigquery, and picked Jimbeam as the vendor in t
 
   - This dataset contains the spirits purchase information of Iowa Class “E” liquor licensees by product and date of purchase from January 1, 2012 to current.
 
-  - There are total 25.1 million rows with 24 columns, each row is an individual product purchase.
+  - There are 25.1 million rows with 24 columns, each row is an individual product purchase.
 
   - You can find it on Bigquery public dataset or access the same via the link:
   [https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
@@ -60,9 +60,9 @@ The framework I drew and going to use in the analysis:
 
 To save time, I will answer the quantitative questions and then investigate further on qualitative questions in a top-down way.
 
-## Technical Aspect about This Project
+## Technical Approach in This Project
   
-  - Data exploration, extraction, process and analyzing is done by Google Bigquery. As I used free version of Bigquery, you might find the data cleaning process unlike normal practice as the DML is not available in free version.
+  - Data exploration, extraction, processing and analyzing are done by SQL queries in Google Bigquery sandbox. As I used the free version of Bigquery, you might find the data cleaning process unlike normal practice as the DML is not available in the free version.
 
   - Visualization: Microsoft Power BI
 
@@ -70,14 +70,13 @@ To save time, I will answer the quantitative questions and then investigate furt
 
   - This analysis is for the sale portfolio in Iowa area only.
   
-  - As the dataset only contains spirits purchase information of Iowa Class “E” liquor licensees, this means the distribution channel only include: grocery, liquor and convenience store and their wholesale sales to on-premise class "A", "B", "C" and "D". The dataset does no include on-premise sales (licensees "A", "B", "C" and "D"), i.e. members and guests of non-profit clubs, hotels and motels, taverns, bars, restaurants, trains, airplanes and watercrafts etc.
+  - As the dataset only contains spirits purchase information of Iowa Class “E” liquor licensees, this means the distribution channel only include: grocery, liquor and convenience store and their wholesale sales to on-premise class "A", "B", "C" and "D". The dataset does not include on-premise sales (licensees "A", "B", "C" and "D"), i.e. members and guests of non-profit clubs, hotels and motels, taverns, bars, restaurants, trains, airplanes and watercrafts etc.
 
 ## Data Cleaning
 
 #### 1. Data Cleaning Overview
 
-- The dataset contain the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30.
-   **There were 24,842,520 records in the dataset, 24,847,481 (-4,961 rows) after cleaning**
+- The dataset contains the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30. There were 24,842,520 records in the dataset, 24,847,481 (-4,961 rows) after cleaning.
 
 - There are 24 fields in this dataset, as per the dimensions that the data is stored, I categorized them into below 4 categories:
   * Fact: [invoice_and_item_number], [date], [bottles_sold], [sale_dollars], [volume_sold_liters], [volume_sold_gallons]
