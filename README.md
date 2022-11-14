@@ -114,7 +114,7 @@
 In fact, at the beginning, the big ambigious question I asked in this project was "How to optimize the sale portfolio?"
 There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors.
 
-![01](ms_overall_market.jpg)
+(https://user-images.githubusercontent.com/95849080/201589134-387fbc74-e8e8-4edb-beab-9358f8700984.jpg)
 
 
 
