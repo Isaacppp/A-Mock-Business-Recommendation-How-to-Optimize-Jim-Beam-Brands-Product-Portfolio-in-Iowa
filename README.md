@@ -5,14 +5,14 @@
   I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands what they could do to optimize their product portfolio in Iowa.
   
   For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
-    
-    1. For Whiskey products:
+  
+  1. For Whiskey products:
       The company should maintain current amount of investment in this category and generate as much as profit as possible. And use the capital in other area such as diversification of their production line.
-    
-    2. For Tequila:
+  
+  2. For Tequila:
       The company should invest more in this category and try to get as much as market share before the category market growth slow down.
       
-    3. For Brandy, Cocktails/ RTD, Cordials/ Liqueurs, Vodka, Rum and Gin:
+  3. For Brandy, Cocktails/ RTD, Cordials/ Liqueurs, Vodka, Rum and Gin:
       Unless there are some other strategic aim, the company should start to gradually divest from these markets and re-allocate the capital to other categories.
       
       Especially Rum and Gin, as they have the least growth rate (near 0%) since 2012.
