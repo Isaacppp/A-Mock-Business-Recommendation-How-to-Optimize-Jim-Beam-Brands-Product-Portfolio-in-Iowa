@@ -61,7 +61,9 @@
     [category_name]
     
     - Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
+    
     - 25,040 records were missing, retrieved the records by what are contained in item_description. Assign category as “Others” to those cannot be found in the end
+    
     - Moved category_name from sub-category to their main categories. e.g. Corn Whiskey to Whiskey, Gold Rum to Rum, Tropical Fruit Schnapps to Cordials/ Liqueurs etc.
         For those not listed and cannot be categorized assign to category - "Others"
     
