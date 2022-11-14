@@ -51,10 +51,15 @@
 
 #### 1. Data Cleaning Overview
 
-1. The dataset contain the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30.
+- The dataset contain the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30.
    **There were 24,842,520 records in the dataset, 24,847,481 (-4,961 rows) after cleaning**
 
-2. Fields cleaned or used to clean data:
+- There are 24 fields in this dataset, per the aspect of fact that the data is stored, I categorized them into below 4 categories:
+Fact: [invoice_and_item_number], [date], [bottles_sold], [sale_dollars], [volume_sold_liters], [volume_sold_gallons]
+Store: [store_number], [store_name], [address], [city], [zip_code], [store_location], [county_number], [county]
+Liquor: [category], [category_name], [item_number], [item_description], [pack], [bottle_volume_ml], [state_bottle_cost], [state_bottle_retail]
+
+- Fields cleaned or used to clean data:
     [category_name], [item_description], [vendor_name], [state_bottle_retail], [bottles_sold], [sale_dollars]
   
 #### 2. Details of Cleaning
