@@ -59,15 +59,26 @@
   
 #### Details of Cleaning
 
-##### [category_name]
+##### Field: [category_name]
 
-  - Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
+- Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
 
-  - 25,040 records were missing, retrieved the records by what are contained in item_description. Assign category as “Others” to those cannot be found in the end
+- 25,040 records were missing, retrieved the records by what are contained in item_description. Assign category as “Others” to those cannot be found in the end
 
-  - Moved category_name from sub-category to their main categories. e.g. Corn Whiskey to Whiskey, Gold Rum to Rum, Tropical Fruit Schnapps to Cordials/ Liqueurs etc.
+- Moved category_name from sub-category to their main categories. e.g. Corn Whiskey to Whiskey, Gold Rum to Rum, Tropical Fruit Schnapps to Cordials/ Liqueurs etc.
             For those not listed and cannot be categorized assign to category - "Others"
-    
-    
+
+##### Field: [vendor_name]
+
+- Excluded null values in vendor_name from the analysis. (There are only 7 records with total 102 bottles from the vendors that are missed)
+
+- Cleaned for the consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
+
+##### Field: [state_bottle_retail], [bottles_sold], [sale_dollars]
+
+- Checked the outliers
+- Cleaned negative values, turned them to positive
+- The record in “0” is not meaningful in the sale analysis case, thus, they are excluded from the analysis
+
 
 
