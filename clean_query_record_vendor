@@ -1,10 +1,12 @@
 /*
 - Dimension: Vendor
 - Fields: vendor_number | vendor_name
+- Queries in this page:
+  1. Clean inconsistent data in vendor_name
 */
 
 /*
-Clean inconsistent data in vendor_name
+1. Clean inconsistent data in vendor_name
 */
 
 WITH cte
