@@ -12,7 +12,7 @@ I queried the dataset in Google #Bigquery, and picked Jimbeam as the vendor in t
 
 #### Disclaimer:
 
-The material and the information contained in this presentation and in any documentation attached to it are for my solely case study purpose only. It does not constitute an offer, true business recommendation to any person.
+**The material and the information contained in this presentation and in any documentation attached to it are for my solely case study purpose only. It does not constitute an offer, true business recommendation to any person.**
 
 ## Business Recommendation
 
