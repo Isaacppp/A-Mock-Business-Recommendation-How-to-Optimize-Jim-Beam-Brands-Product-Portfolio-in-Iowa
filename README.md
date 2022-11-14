@@ -58,8 +58,8 @@
     [category_name], [item_description], [vendor_name], [state_bottle_retail], [bottles_sold], [sale_dollars]
   
   3. Details of cleaning:
-    
-    [category_name]
+
+[category_name]
     
 - Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
     
