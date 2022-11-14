@@ -139,12 +139,11 @@ In fact, at the beginning, the big ambiguous question I asked in this project wa
 
 The top 3 are Diageo, Sazerac Company and then JimBeam.
 
-After going over the ranking, I wanted to go with the analysis to help Jim Beam Brands, 3rd largest vendors by market share. Reason being: They have room to grow, and the NO.4 Pernod Ricard is so close behind. (Maybe simply like their whiskey.)
+After going over the ranking, I want to go with the analysis to help Jim Beam Brands, the 3rd largest vendor by market share. Reason being: They have room to grow, and the NO.4 Pernod Ricard is so close behind. (or maybe simply because that I like their whiskey)
 
 #### 2. Define the market where their products stand
 
-As I picked Jim Beam Brands as client in this objective, defining the market for most of their products is my first priority
-(an incorrectly defined market can lead to poor classification in liquor market)
+As I picked Jim Beam Brands as client in this project, defining the market for most of their products is my first priority (an incorrectly defined market can lead to poor classification in liquor market)
 
 - I classified the liquor market (in price) into these buckets:
 
@@ -159,7 +158,7 @@ As I picked Jim Beam Brands as client in this objective, defining the market for
 
 ![Price Distribution](https://user-images.githubusercontent.com/95849080/201589862-3e6bc764-6ad5-4ab8-8218-efe3e3d054c3.jpg)
 
-As most of Jim Beam Brands products (98.43%) are less than and equal to USD 100.
+Most of Jim Beam Brands products (98.43%) are less than and equal to USD 100.
 Therefore, I will proceed the analysis with the market that the price per bottle is ≤ USD 100.
 
 Plus, I want to see where Jim Beam Brands stands in each category, so I will be putting each category in a growth-share matrix. Therefore, I want to get “Market Growth” of each category and “Relative Market Share” next.
@@ -170,7 +169,7 @@ As the max date in dataset that currently available is 2022-09-30 (end of Q3), t
 I will use 1st of October in every year as starting of fiscal year, e.g. fiscal year of 2012 is from 2012/10/01 to 2013/09/30.
 
 - Overall CAGR of Iowa liquor market: **0.0555**
-  * Note: this is for market that each bottle ≤ USD 100, from Q3 2012 to Q3 2022)
+  * Note: this is for market that each bottle ≤ USD 100, from Q3 2012 to Q3 2022
   * Note: This data point will be used as middle line to determine how the growth rate of each category performs
 
 - CAGR of each category
@@ -215,7 +214,7 @@ In order to decide what the next step can be taken given the growth-share matrix
 
 Below chart shows CAGR over fiscal years (fiscal year starts from every Q4). For example, the data point on the fiscal year of 2012 (fiscal period: 2012/10/01-2013/09/30) shows the CAGR counted from 2012 to 2021, the data point on 2013 shows CAGR counted from 2013 to 2021, and the data point on 2020 shows CAGR counted from fiscal year 2020-2021.
 
-It will tell the trend of growth rate momentum of each category.
+It will tell the trend of growth rate momentum for each category.
 
 ![cagr_change_over_years](https://user-images.githubusercontent.com/95849080/201596626-fb9ee3af-42ad-4f27-a77e-d58bf3e8ff64.jpg)
 
