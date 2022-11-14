@@ -6,7 +6,7 @@
 
 ## Business Recommendation
 
-  For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
+  For distribution channels of grocery, liquor and convenience stores in Iowa, the business recommendation I have for Jim Beam Brands are:
   
   1. For Whiskey products:
       The company should maintain current amount of investment in this category and generate as much as profit as possible. And use the capital in other area such as diversification of their production line.
@@ -21,7 +21,8 @@
   
 ## Table of Contents
   - [About the Dataset](#about-the-dataset)
-  - [About My Work](#about-my-work)
+  - [My Approach to Solve this Problem](#my-approach-to-solve-this-problem)
+  - [Technical Aspect about This Project](#technical-aspect-about-this-project)
   - [Limitation of This Analysis](#limitation-of-this-analysis)
   - [Data Cleaning](#data-cleaning)
   - [Data Analyzing](#data-analyzing)
@@ -39,8 +40,17 @@
   - You can find it on Bigquery public dataset or access the same via the link:
   [https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
 
+## My Approach to Solve this Problem
 
-## About My Work
+I will break this big ambiguous business problems into small pieces and use data to answer each small question. In the end put them together to answer the big question.
+
+The framework I drew and going to use in the analysis:
+
+![framework](https://user-images.githubusercontent.com/95849080/201607481-3f900057-8344-401c-9c97-6e9c829b20ee.jpg)
+
+I will answer the quantitative problems and then investigate further on qualitative problems in a top-down way.
+
+## Technical Aspect about This Project
   
   - Data exploration, extraction, process and analyzing is done by Google Bigquery. As I used free version of Bigquery, you might find the data cleaning process unlike normal practice as the DML is not available in free version.
 
@@ -222,6 +232,8 @@ Other than Tequila, the growing momentum started to decline in other categories 
 - Tequila: To grab more market share in Tequila market, I will investigate further to see which product(s) that the company can leverage. Meantime, the data of profitability of each product is required. (not available for the time being)  
 
 - Rum and Gin: As these two markets have the least growth rate over the past 10 year, I prioritize these two to look into which product(s) that they can start to liquidate. Meantime, the data of profitability of each product is also required. (not available for the time being)
+
+- On the aspect of qualiative questions about customer, I want to investigate further to see if any shift about the preference in category to strengthen my recommendation. In addition, I will investigate if there's a change on the price acceptance as the main market of Jim Beam Brands lies in <= USD 100 per bottle.
 
 ## References
 
