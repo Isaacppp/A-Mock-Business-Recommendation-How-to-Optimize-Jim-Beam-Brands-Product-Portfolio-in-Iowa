@@ -114,8 +114,68 @@
 In fact, at the beginning, the big ambigious question I asked in this project was "How to optimize the sale portfolio?"
 There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors.
 
-https://user-images.githubusercontent.com/95849080/201589134-387fbc74-e8e8-4edb-beab-9358f8700984.jpg
+![Overall Market Share](https://user-images.githubusercontent.com/95849080/201589134-387fbc74-e8e8-4edb-beab-9358f8700984.jpg)
 
+After going over the ranking, I want to go with the analysis to help Jim Beam Brands, 3rd largest vendors by market share.
+Reason being: They have room to grow and I simply love this brand.
+
+#### 3. Define the market where their products stand
+
+As I picked Jim Beam Brands as client in this objective, defining the market for most of their products is my first priority
+(an incorrectly defined market can lead to poor classification in liquor market)
+
+- Here is my classification on liquor price:
+
+    * USD ≤20
+    * USD 21-50
+    * USD 51-100
+    * USD 101-200
+    * USD 201-300
+    * USD >300
+
+- Here’s the price distribution of Jim Beam Brands Products:
+
+![Price Distribution](https://user-images.githubusercontent.com/95849080/201589862-3e6bc764-6ad5-4ab8-8218-efe3e3d054c3.jpg)
+
+As most of Jim Beam Brands products (98.43%) are less than and equal to USD 100.
+Therefore, I will proceed the analysis with the market that the price per bottle is ≤ USD 100.
+
+Plus, I want to see where Jim Beam Brands stands in each category, so I will be putting each category in a growth-share matrix. Therefore, I want to get “Market Growth” of each category and “Relative Market Share” next.
+
+#### 4. Market Growth
+
+As the max date in dataset that currently available is 2022-09-30 (end of Q3), to calculate the CAGR over the past 10 years, 
+I will use 1st of October in every year as starting of fiscal year, e.g. fiscal year of 2012 is from 2012/10/01 to 2013/09/30.
+
+- Overall CAGR of Iowa liquor market: **0.0555**
+  * Note: this is for market that each bottle ≤ USD 100, from Q3 2012 to Q3 2022)
+  * Note: This data point will be used as middle line to determine how the growth rate of each category performs
+
+- CAGR of each category
+
+![CAGR of each category](https://user-images.githubusercontent.com/95849080/201590530-50eb2781-62f4-4d43-b73b-9f7b913fccde.jpg)
+
+[Code for this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_market_growth)
+
+#### 5. Relative Market Share
+
+- For a clear overview of relative market share that Jim Beam Brands stands in each category:
+
+![Relative Market Share](https://user-images.githubusercontent.com/95849080/201593164-6dbac934-642b-411f-964e-1c622ff793ef.jpg)
+
+- Get a data point to draw the middle line of the relative market share
+
+Before getting the data point, I will examine the market share in each category to determine how to draw the middle line of relative market share in my growth-share matrix
+
+![ms_controlled_by_top10](https://user-images.githubusercontent.com/95849080/201594139-bdd17daa-d497-4f05-a2e5-c82197e55d13.jpg)
+
+As the top 10 market share holder in each category control the big majority liquor market in each category, I will use the average relative market share of top 10 vendors as the middle data point to draw the line.
+
+- Average relative market share of top 10 vendors in each category
+
+Note: as the leading rival’s relative market share is 1, so every leading rival’s relative market share is excluded (only 9 relative market share in top 10 in each category is used to count the average)
+
+The average relative market share is: **0.208**
 
 
 
