@@ -125,20 +125,20 @@ To save time, I will answer the quantitative questions and then investigate furt
 
 #### 1. Who I help
 
-In fact, at the beginning, the big ambigious question I asked in this project was "How to optimize the sale portfolio?"
-There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors.
+In fact, at the beginning, the big ambiguous question I asked in this project was "How to optimize the sale portfolio?" There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors (by sales through 2012/01/01 and 2022/09/30)
 
 ![Overall Market Share](https://user-images.githubusercontent.com/95849080/201589134-387fbc74-e8e8-4edb-beab-9358f8700984.jpg)
 
-After going over the ranking, I want to go with the analysis to help Jim Beam Brands, 3rd largest vendors by market share.
-Reason being: They have room to grow and I like their whiskey.
+The top 3 are Diageo, Sazerac Company and then JimBeam.
+
+After going over the ranking, I wanted to go with the analysis to help Jim Beam Brands, 3rd largest vendors by market share. Reason being: They have room to grow, and the NO.4 Pernod Ricard is so close behind. (Maybe simply like their whiskey.)
 
 #### 2. Define the market where their products stand
 
 As I picked Jim Beam Brands as client in this objective, defining the market for most of their products is my first priority
 (an incorrectly defined market can lead to poor classification in liquor market)
 
-- Here is my classification on liquor price:
+- I classified the liquor market (in price) into these buckets:
 
     * USD ≤20
     * USD 21-50
@@ -147,7 +147,7 @@ As I picked Jim Beam Brands as client in this objective, defining the market for
     * USD 201-300
     * USD >300
 
-- Here’s the price distribution of Jim Beam Brands Products:
+- Based on the buckets, the price distribution of Jim Beam Brands Products shows as:
 
 ![Price Distribution](https://user-images.githubusercontent.com/95849080/201589862-3e6bc764-6ad5-4ab8-8218-efe3e3d054c3.jpg)
 
@@ -233,7 +233,7 @@ Other than Tequila, the growing momentum started to decline in other categories 
 
 - Rum and Gin: As these two markets have the least growth rate over the past 10 year, I prioritize these two to look into which product(s) that they can start to liquidate. Meantime, the data of profitability of each product is also required. (not available for the time being)
 
-- On the aspect of qualiative questions about customer, I want to investigate further to see if any shift about the preference in category to strengthen my recommendation. In addition, I will investigate if there's a change on the price acceptance as the main market of Jim Beam Brands lies in <= USD 100 per bottle.
+- On the aspect of qualitative questions about customer, I want to investigate further to see if any shift about the preference in category to strengthen my recommendation. In addition, I will investigate if there's a change on the price acceptance as the main market of Jim Beam Brands lies in <= USD 100 per bottle.
 
 ## References
 
