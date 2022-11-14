@@ -77,7 +77,9 @@
 ##### Field: [state_bottle_retail], [bottles_sold], [sale_dollars]
 
 - Checked the outliers
+
 - Cleaned negative values, turned them to positive
+
 - The record in “0” is not meaningful in the sale analysis case, thus, they are excluded from the analysis
 
 
