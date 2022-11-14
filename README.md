@@ -181,7 +181,7 @@ Note: as the leading rival’s relative market share is 1, so every leading riva
 
 The average relative market share is: **0.208**
 
-![Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_relative_market_share)
+[Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_relative_market_share)
 
 #### 5. Draw the Growth-Share Matrix
 
@@ -204,7 +204,7 @@ From the chart it is observed that the growth rate are slowing down and even tur
 
 Other than Tequila, the growing momentum started to decline in other categories since or before fiscal year of 2019.
 
-![Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_growth_rate_momentum)
+[Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_growth_rate_momentum)
 
 ## Key Takeaways
 
