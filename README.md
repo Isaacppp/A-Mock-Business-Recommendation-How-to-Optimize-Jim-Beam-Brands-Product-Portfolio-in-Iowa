@@ -61,17 +61,20 @@
   * Vendor: [vendor_number], [vendor_name]
 
 - As the dimension "Store" is not in the scope to solve the business problem, to save time, I cleaned other fields for analysis.
-
-- Fields cleaned or used to clean data:
-    [category_name], [item_description], [vendor_name], [state_bottle_retail], [bottles_sold], [sale_dollars]
   
 #### 2. Details of Cleaning
 
-##### Field: [category_name]
+##### Fact
+Fields cleaned: [bottles_sold], [sale_dollars]
+- Checked the outliers
+- Turned negative values to positive
+- The record in “0” is not meaningful in the sale analysis case, thus, they are excluded from the analysis
 
-- Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
 
-- 25,040 records were missing, retrieved the records by what are contained in item_description. Assign category as “Others” to those cannot be found in the end
+##### Dimension: [category_name]
+
+
+- 
 
 - Moved category_name from sub-category to their main categories. e.g. Corn Whiskey to Whiskey, Gold Rum to Rum, Tropical Fruit Schnapps to Cordials/ Liqueurs etc.
             For those not listed and cannot be categorized assign to category - "Others"
