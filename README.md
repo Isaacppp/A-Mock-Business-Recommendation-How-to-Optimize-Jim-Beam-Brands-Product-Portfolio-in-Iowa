@@ -74,6 +74,7 @@
 
 
 #### Liquor
+[Code](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/query_record_liquor_cleaning)
 
 - [category_name], [item_description]
 
