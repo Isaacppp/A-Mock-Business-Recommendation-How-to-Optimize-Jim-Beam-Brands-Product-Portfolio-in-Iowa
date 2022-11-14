@@ -201,7 +201,7 @@ Note: As category: “OTHERS” is not listed in specific market. And “SPECIAL
 
 ![growth_share matrix](https://user-images.githubusercontent.com/95849080/201596098-a5ee5cb3-50b8-42ba-bb09-f6b6d6d3ff39.jpg)
 
-In order to to decide what the next step can be taken given the growth-share matrix currently available, I want to find out the growing momentum of each category.
+In order to decide what the next step can be taken given the growth-share matrix currently available, I want to find out the growing momentum of each category.
 
 #### 6. Calculate Growth Rate Momentum of each Category
 
