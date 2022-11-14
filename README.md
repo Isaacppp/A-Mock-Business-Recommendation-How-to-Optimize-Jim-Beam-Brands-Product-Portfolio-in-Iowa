@@ -48,7 +48,7 @@ The framework I drew and going to use in the analysis:
 
 ![framework](https://user-images.githubusercontent.com/95849080/201607481-3f900057-8344-401c-9c97-6e9c829b20ee.jpg)
 
-I will answer the quantitative questions and then investigate further on qualitative questions in a top-down way.
+To save time, I will answer the quantitative questions and then investigate further on qualitative questions in a top-down way.
 
 ## Technical Aspect about This Project
   
