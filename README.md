@@ -198,6 +198,7 @@ In order to to decide what the next step can be taken given the growth-share mat
 Below chart shows CAGR over fiscal years (fiscal year starts from every Q4). For example, the data point on the fiscal year of 2012 (fiscal period: 2012/10/01-2013/09/30) shows the CAGR counted from 2012 to 2021, the data point on 2013 shows CAGR counted from 2013 to 2021, and the data point on 2020 shows CAGR counted from fiscal year 2020-2021.
 
 It will tell the trend of growth rate momentum of each category.
+
 ![cagr_change_over_years](https://user-images.githubusercontent.com/95849080/201596626-fb9ee3af-42ad-4f27-a77e-d58bf3e8ff64.jpg)
 
 From the chart it is observed that the growth rate are slowing down and even turned to negative in the fiscal year of 2019 (fiscal period: 2019/09/30-2020/09/30)
