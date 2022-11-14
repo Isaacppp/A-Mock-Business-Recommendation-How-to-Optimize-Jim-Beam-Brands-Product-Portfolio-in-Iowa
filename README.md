@@ -58,6 +58,7 @@
   * Fact: [invoice_and_item_number], [date], [bottles_sold], [sale_dollars], [volume_sold_liters], [volume_sold_gallons]
   * Store: [store_number], [store_name], [address], [city], [zip_code], [store_location], [county_number], [county]
   * Liquor: [category], [category_name], [item_number], [item_description], [pack], [bottle_volume_ml], [state_bottle_cost], [state_bottle_retail]
+  * Vendor: [vendor_number], [vendor_name]
 
 - Fields cleaned or used to clean data:
     [category_name], [item_description], [vendor_name], [state_bottle_retail], [bottles_sold], [sale_dollars]
