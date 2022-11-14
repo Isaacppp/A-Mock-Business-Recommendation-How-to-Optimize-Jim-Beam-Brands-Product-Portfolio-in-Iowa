@@ -1,6 +1,9 @@
 /*
-Constaints: As I use free version of Google Bigquery, the DML is not available.
+- Constaints: As I use free version of Google Bigquery, the DML is not available.
 Therefore, the data processing queries as followings might look unlike standard cleaning process.
+
+- Queries in this page:
+  1. Combining all cleaning queries done previously. (I saved the result of this query as Bigquery table for analyzing)
 */
 
 WITH c1
