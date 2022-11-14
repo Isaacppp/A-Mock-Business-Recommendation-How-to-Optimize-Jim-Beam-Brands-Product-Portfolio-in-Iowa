@@ -155,7 +155,7 @@ I will use 1st of October in every year as starting of fiscal year, e.g. fiscal 
 
 ![CAGR of each category](https://user-images.githubusercontent.com/95849080/201590530-50eb2781-62f4-4d43-b73b-9f7b913fccde.jpg)
 
-[Code for this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_market_growth)
+[Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_market_growth)
 
 #### 5. Relative Market Share
 
@@ -177,5 +177,6 @@ Note: as the leading rival’s relative market share is 1, so every leading riva
 
 The average relative market share is: **0.208**
 
+![Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_relative_market_share)
 
 
