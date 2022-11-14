@@ -24,6 +24,7 @@
   - [About My Work](#about-my-work)
   - [Limitation of This Analysis](#limitation-of-this-analysis)
   - [Data Cleaning](#data-cleaning)
+  - [Data Analyzing](#data-analyzing)
 
 ## About the Dataset
 
@@ -100,6 +101,20 @@
   * Cleaned for the name consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
 
 [Check query record Here](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/query_record_vendor_cleaning)
+
+## Data Analyzing
+
+#### 1. Overview
+
+- The dataset is updated on 2022/11/02. The dataset contains the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30
+- Only [date], [bottles_sold], [sale_dollars], [category_name], [item_description], [state_bottle_retail], [vendor_number] are used in this analysis
+
+#### 2. Who I help
+
+In fact, at the beginning, the big ambigious question I asked in this project was "How to optimize the sale portfolio?"
+There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors.
+
+!(ms_overall_market.jpg)
 
 
 
