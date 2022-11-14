@@ -74,7 +74,6 @@
 
 
 #### Liquor
-[Code](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/query_record_liquor_cleaning)
 
 - [category_name], [item_description]
 
@@ -88,6 +87,8 @@
 - [state_bottle_retail]
   * Checked the outliers
   * Contains 3847 records that show “0.0” dollar per bottle → excluded these record from table
+
+[Check the Code Here](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/query_record_liquor_cleaning)
 
 ##### Vendor
 
