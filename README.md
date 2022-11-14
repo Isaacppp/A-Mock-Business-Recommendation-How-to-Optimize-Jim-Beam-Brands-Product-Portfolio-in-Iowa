@@ -123,7 +123,7 @@ To save time, I will answer the quantitative questions and then investigate furt
 - The dataset is updated on 2022/11/02. The dataset contains the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30
 - Only [date], [bottles_sold], [sale_dollars], [category_name], [item_description], [state_bottle_retail], [vendor_number] are used in this analysis
 
-#### 1. Who I help
+#### 1. The vendor I help
 
 In fact, at the beginning, the big ambiguous question I asked in this project was "How to optimize the sale portfolio?" There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors (by sales through 2012/01/01 and 2022/09/30)
 
