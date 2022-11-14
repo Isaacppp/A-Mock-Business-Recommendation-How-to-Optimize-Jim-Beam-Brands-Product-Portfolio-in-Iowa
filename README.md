@@ -49,7 +49,7 @@
 
 ## Data Cleaning
 
-#### Data Cleaning Overview
+#### 1. Data Cleaning Overview
 
 1. The dataset contain the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30.
    **There were 24,842,520 records in the dataset, 24,847,481 (-4,961 rows) after cleaning**
@@ -57,7 +57,7 @@
 2. Fields cleaned or used to clean data:
     [category_name], [item_description], [vendor_name], [state_bottle_retail], [bottles_sold], [sale_dollars]
   
-#### Details of Cleaning
+#### 2. Details of Cleaning
 
 ##### Field: [category_name]
 
