@@ -77,7 +77,7 @@
 - [category_name], [item_description]
   * Cleaned for the consistency of every type, e.g. extra “s” or “.” etc and unify the naming of each type
   * 25,040 records were missing, retrieved the records by what are contained in item_description. Assign category as “Others” to those cannot be found in the end
-  * contains small genres that are trivial and difficult to comprehend
+  * Categories contain sub-genres that are trivial and difficult to comprehend
       → move [category_name] from small genre to main categories as categorized in Iowa ABD: WHISKEY, TEQUILA, VODKA, GIN, BRANDY, RUM, COCKTAILS/ RTD, CORDIALS/ LIQUEURS, SPECIALTY. Reference: [https://shop.iowaabd.com/](https://shop.iowaabd.com/)
     
     For those that are not categorized as above or not listed, assign to “OTHERS”
@@ -86,13 +86,12 @@
   * Checked the outliers
   * Contains 3847 records that show “0.0” dollar per bottle → excluded these record from table
 
-##### Field: [vendor_name]
+##### Vendor
 
-- Excluded null values in vendor_name from the analysis. (There are only 7 records with total 102 bottles from the vendors that are missed)
+- [vendor_name]
+  * Exclude NULL values (7 records with total 102 bottles missing)
+  * Cleaned for the name consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
 
-- Cleaned for the consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
-
-##### Field: 
 
 
 
