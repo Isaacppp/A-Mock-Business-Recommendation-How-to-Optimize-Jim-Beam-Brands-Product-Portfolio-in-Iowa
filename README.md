@@ -46,7 +46,7 @@ I will break this big ambiguous business problems into small pieces and use data
 
 The framework I drew and going to use in the analysis:
 
-![framework](https://user-images.githubusercontent.com/95849080/201607481-3f900057-8344-401c-9c97-6e9c829b20ee.jpg)
+![framework](https://user-images.githubusercontent.com/95849080/201608721-d867b8d9-9a85-42b0-abbe-e9cf4e82c9c0.jpg)
 
 To save time, I will answer the quantitative questions and then investigate further on qualitative questions in a top-down way.
 
