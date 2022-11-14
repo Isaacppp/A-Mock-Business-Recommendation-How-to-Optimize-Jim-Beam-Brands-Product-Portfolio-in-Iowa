@@ -1,11 +1,12 @@
 # How to Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa
 
-## Summary
+## Introduction
+  
+  I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
+  
+## Solutions
 
-  I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands what they could do to optimize their product portfolio in Iowa.
-  
   For distribution channels of grocery, liquor and convenience stores, the business recommendation I have for them are:
-  
   
   1. For Whiskey products:
       The company should maintain current amount of investment in this category and generate as much as profit as possible. And use the capital in other area such as diversification of their production line.
@@ -18,7 +19,6 @@
       
       Especially Rum and Gin, as they have the least growth rate (near 0%) since 2012.
   
-
 ## Table of Contents
   - [About the Dataset](#about-the-dataset)
   - [About My Work](#about-my-work)
@@ -43,8 +43,8 @@
 
 ## Limitation in This Analysis
 
-  1. This analysis is for the sale portfolio in Iowa area only.
+  - This analysis is for the sale portfolio in Iowa area only.
   
-  2. As the dataset only contains spirits purchase information of Iowa Class “E” liquor licensees, this means the distribution channel only include: grocery, liquor and convenience store and their wholesale sales to on-premise class "A", "B", "C" and "D". Not including on-premise sales ("A", "B", "C" and "D"): members and guests of non-profit clubs, hotels and motels, taverns, bars, restaurants, trains, airplanes and watercrafts etc. 
-  
-  
+  - As the dataset only contains spirits purchase information of Iowa Class “E” liquor licensees, this means the distribution channel only include: grocery, liquor and convenience store and their wholesale sales to on-premise class "A", "B", "C" and "D". Not including on-premise sales ("A", "B", "C" and "D"): members and guests of non-profit clubs, hotels and motels, taverns, bars, restaurants, trains, airplanes and watercrafts etc. 
+
+
