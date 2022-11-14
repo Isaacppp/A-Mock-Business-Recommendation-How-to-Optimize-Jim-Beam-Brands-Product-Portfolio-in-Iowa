@@ -2,8 +2,17 @@
 
 ## Introduction
   
-  This is a self-curated project using real world data - the "Iowa Liquor Sale".
-  I queried the dataset in Google Bigquery to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
+This is a self-curated project using real world data - the "Iowa Liquor Sale".
+
+This project started from a big ambiguous question:
+
+  "How to optimize sale portfolio in Iowa for a vendor?" 
+
+I queried the dataset in Google #Bigquery, and picked Jimbeam as the vendor in this project. By the data that is currently available, I built this mock business recommendations on how to optimize their product portfolio in Iowa.
+
+#### Disclaimer:
+
+The material and the information contained in this presentation and in any documentation attached to it are for my solely case study purpose only. It does not constitute an offer, true business recommendation to any person.
 
 ## Business Recommendation
 
