@@ -2,7 +2,8 @@
 
 ## Introduction
   
-  I used the dataset - "Iowa Liquor Sale" to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
+  This is a self-curated project using real world data - the "Iowa Liquor Sale".
+  I queried the dataset in Google Bigquery to build business recommendation to guide Jim Beam Brands how to optimize their product portfolio in Iowa.
 
 ## Business Recommendation
 
