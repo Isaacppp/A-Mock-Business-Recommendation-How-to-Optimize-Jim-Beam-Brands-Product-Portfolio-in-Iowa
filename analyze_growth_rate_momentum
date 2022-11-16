@@ -59,7 +59,7 @@ AS(
 )
 
 SELECT
-  year+1 AS year,
+  2021 - year AS interval_in_years,
   main_category,
   f_annual_sale_int AS year_sale,
   f_annual_sale_2022_int AS year_sale_2022,
