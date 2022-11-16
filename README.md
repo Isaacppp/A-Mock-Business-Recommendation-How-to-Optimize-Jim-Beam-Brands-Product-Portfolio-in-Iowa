@@ -224,7 +224,7 @@ From the chart, it is observed that in a 3 years interval, other than "Tequila",
 
 1. The main market (in price) of Jim Beam Brands is below and equals to USD 100 per bottle with 98.43% in total.
 
-2. The overall CAGR of Iowa liquor market from Q3 2012 to Q3 2022 (for market that each bottle ≤ USD 100) is 5.55%
+2. The overall CAGR of Iowa liquor market from Q4 2012 to Q3 2022 (for market that each bottle ≤ USD 100) is 5.55%
 
 3. Jim Beam Brands most competitive category by relative market share is “Whiskey” (64%), then “Tequila” (23%) follows.
 
