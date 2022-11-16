@@ -212,15 +212,11 @@ In order to decide what the next step can be taken given the growth-share matrix
 
 #### 6. Calculate Growth Rate Momentum of each Category
 
-Below chart shows CAGR over fiscal years (fiscal year starts from every Q4). For example, the data point on the fiscal year of 2012 (fiscal period: 2012/10/01-2013/09/30) shows the CAGR counted from 2012 to 2021, the data point on 2013 shows CAGR counted from 2013 to 2021, and the data point on 2020 shows CAGR counted from fiscal year 2020-2021.
+The below chart shows CAGR changes for the period of Q4 2012 to Q3 2022. It tells the trend of growth rate momentum for each category from the long term to the short term.
 
-It will tell the trend of growth rate momentum for each category.
+![cagr_change_over_years](https://user-images.githubusercontent.com/95849080/202111162-7ed63beb-8eb2-4e80-a2a2-c61c87e86bff.jpg)
 
-![cagr_change_over_years](https://user-images.githubusercontent.com/95849080/201596626-fb9ee3af-42ad-4f27-a77e-d58bf3e8ff64.jpg)
-
-From the chart it is observed that the growth rate are slowing down and even turned to negative in the fiscal year of 2019 (fiscal period: 2019/09/30-2020/09/30)
-
-Other than Tequila, the growing momentum started to decline in other categories since or before fiscal year of 2019.
+From the chart, it is observed that in a 3 years interval, other than "Tequila", the growth rate of other categories started to decline and some even turn negative in a 2 years interval.
 
 [Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_growth_rate_momentum)
 
