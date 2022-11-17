@@ -187,9 +187,7 @@ As the max date in dataset that currently available is 2022-09-30 (end of Q3), t
 
 ![Relative Market Share](https://user-images.githubusercontent.com/95849080/201593164-6dbac934-642b-411f-964e-1c622ff793ef.jpg)
 
-- Get a data point to draw the middle line of the relative market share
-
-Before getting the data point, I will examine the market share in each category to determine how to draw the middle line of relative market share in my growth-share matrix
+- To draw the middle line of the relative market share in the growth-share matrix, I examined the market share in each category to see the market share distribution first.
 
 ![ms_controlled_by_top10](https://user-images.githubusercontent.com/95849080/201594139-bdd17daa-d497-4f05-a2e5-c82197e55d13.jpg)
 
