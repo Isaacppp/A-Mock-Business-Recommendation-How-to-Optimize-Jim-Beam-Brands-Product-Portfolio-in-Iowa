@@ -53,7 +53,7 @@ Especially Rum and Gin, as they have had the least growth rate (near 0%) since 2
 
 ## My Approach to Solve this Problem
 
-I will break this big ambiguous business problems into small pieces and use data to answer each small question. In the end put them together to answer the big question.
+I will break this big ambiguous business problem into small pieces and use data to answer each small question. In the end put them together to answer the big question.
 
 The framework I drew and going to use in the analysis:
 
