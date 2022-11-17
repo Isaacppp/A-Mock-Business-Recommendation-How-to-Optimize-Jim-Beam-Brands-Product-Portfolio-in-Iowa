@@ -1,8 +1,8 @@
 /*
 Queries in this page:
   1. Get a table of overview of relative market share
-  2. Get the data point of middle line of the relative market share
-  3. Calculate relative market share of top 10 vendors for all categories
+  2. Market share of top 10 vendors in each category
+  3. Calculate average relative market share of top 10 vendors for all categories
 */
 
 /*
@@ -93,7 +93,7 @@ FROM
 ORDER BY main_category;
 
 /*
-2. Get the data point of middle line of the relative market share
+2. Market share of top 10 vendors in each category
 */
 
 --fiscal calendar
@@ -180,7 +180,7 @@ FROM
 ORDER BY a.main_category;
 
 /*
-3. Calculate relative market share of top 10 vendors for all categories
+3. Calculate average relative market share of top 10 vendors for all categories
 */
 
 /*
