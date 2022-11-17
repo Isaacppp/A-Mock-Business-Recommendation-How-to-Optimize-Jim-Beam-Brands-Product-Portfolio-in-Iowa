@@ -169,11 +169,14 @@ Plus, I want to see where Jim Beam Brands stands in each category, so I will be 
 
 #### 3. Market Growth
 
+I used CAGR rather than YoY% to calculate market growth because it gives me an idea of general growth rate.
+
 As the max date in dataset that currently available is 2022-09-30 (end of Q3), to calculate the CAGR over the past 10 years, I used 1st, October 2012 as starting date.
 
-- Overall CAGR of Iowa liquor market: **0.0555**
-  * Note: this is for market that each bottle ≤ USD 100, from Q4 2012 to Q3 2022
-  * Note: This data point will be used as middle line to determine how the growth rate of each category performs
+Firstly, in order to draw the middle line in the growth rate axis in the matrix, I used the overall CAGR of Iowa liquor market as that data point.
+
+**The overall CAGR of Iowa liquor market is: 5.55%**
+(Note: this is for market that each bottle ≤ USD 100, from Q4 2012 to Q3 2022)
 
 - CAGR of each category
 
