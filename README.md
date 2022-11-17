@@ -143,7 +143,7 @@ In fact, in the beginning, the big ambiguous question I asked in this project wa
 
 The top 3 are Diageo, Sazerac Company and then JimBeam.
 
-After going over the ranking, I want to go with the analysis to help Jim Beam Brands, the 3rd largest vendor by market share. Reason being: They have room to grow, and the NO.4 Pernod Ricard is so close behind. (or maybe simply because that I like their whiskey)
+After going over the ranking, I want to go with the analysis to help Jim Beam Brands, the 3rd largest vendor by market share. The reason is: They have room to grow, and the NO.4 Pernod Ricard is so close behind. (or maybe simply because I like their whiskey)
 
 #### 2. Define the market where their products stand
 
@@ -169,11 +169,10 @@ Plus, I want to see where Jim Beam Brands stands in each category, so I will be 
 
 #### 3. Market Growth
 
-As the max date in dataset that currently available is 2022-09-30 (end of Q3), to calculate the CAGR over the past 10 years, 
-I will use 1st of October in every year as starting of fiscal year, e.g. fiscal year of 2012 is from 2012/10/01 to 2013/09/30.
+As the max date in dataset that currently available is 2022-09-30 (end of Q3), to calculate the CAGR over the past 10 years, I used 1st, October 2012 as starting date.
 
 - Overall CAGR of Iowa liquor market: **0.0555**
-  * Note: this is for market that each bottle ≤ USD 100, from Q3 2012 to Q3 2022
+  * Note: this is for market that each bottle ≤ USD 100, from Q4 2012 to Q3 2022
   * Note: This data point will be used as middle line to determine how the growth rate of each category performs
 
 - CAGR of each category
@@ -184,7 +183,7 @@ I will use 1st of October in every year as starting of fiscal year, e.g. fiscal 
 
 #### 4. Relative Market Share
 
-- For a clear overview of relative market share that Jim Beam Brands stands in each category:
+- Below table shows a clear overview of relative market share that Jim Beam Brands and the leading rival stand in each category.
 
 ![Relative Market Share](https://user-images.githubusercontent.com/95849080/201593164-6dbac934-642b-411f-964e-1c622ff793ef.jpg)
 
