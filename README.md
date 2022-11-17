@@ -130,8 +130,10 @@ To save time, I will answer the quantitative questions and then investigate furt
 
 #### Overview
 
-- The dataset is updated on 2022/11/02. The dataset contains the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30
+- The dataset is updated on 2022/11/02. It contains the sales record of liquor in Iowa from 2012-01-03 to 2022-09-30
 - Only [date], [bottles_sold], [sale_dollars], [category_name], [item_description], [state_bottle_retail], [vendor_number] are used in this analysis
+- I started with deciding which vendor to help and then identifying the main market of their products by price per bottle. Secondly, identifying the market growth and relative market share to see which category of product Jim Beam Brands can further consider to increase investment or liquidate the category.
+
 
 #### 1. The vendor I help
 
