@@ -1,11 +1,11 @@
 /*
 Queries in this page:
-  1. Calculate overall CAGR of from Q3 2012 to Q3 2022 as fiscal year
+  1. Calculate overall CAGR of from Q3 2012 to Q3 2022
   2. Calculate CAGR of each category
 */
 
 /*
-1. Calculate overall CAGR of from Q4 2012 to Q3 2022 as fiscal year
+1. Calculate overall CAGR of from Q4 2012 to Q3 2022
 */
 
 --Every 1st of Oct as starting date of fiscal year
