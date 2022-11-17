@@ -225,11 +225,11 @@ In order to strengthen what the growth-share matrix tells, by finding out the gr
 
 #### 6. Calculate Growth Rate Momentum of each Category
 
-The below chart shows CAGR changes for the period of Q4 2012 to Q3 2022. It tells the trend of growth rate momentum for each category from the long term to the short term.
+To get the growing momentum of each category, I queried the CAGR change from long term to short term (from a 9 years interval to 1 year interval) to see the trend.
+
+We will find that in a 3 years interval, other than "Tequila", the growth rate of other categories started to decline and some even turn negative in a 2 years interval.
 
 ![cagr_change_over_years](https://user-images.githubusercontent.com/95849080/202111162-7ed63beb-8eb2-4e80-a2a2-c61c87e86bff.jpg)
-
-From the chart, it is observed that in a 3 years interval, other than "Tequila", the growth rate of other categories started to decline and some even turn negative in a 2 years interval.
 
 [Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_growth_rate_momentum)
 
