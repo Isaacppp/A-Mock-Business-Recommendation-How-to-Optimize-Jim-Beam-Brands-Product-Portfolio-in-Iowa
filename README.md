@@ -137,7 +137,7 @@ To save time, I will answer the quantitative questions and then investigate furt
 
 #### 1. The vendor I help
 
-In fact, at the beginning, the big ambiguous question I asked in this project was "How to optimize the sale portfolio?" There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors (by sales through 2012/01/01 and 2022/09/30)
+In fact, in the beginning, the big ambiguous question I asked in this project was "How to optimize the sale portfolio for a vendor?" There wasn't "the who" at the beginning. So, I took a look to see the ranking of vendors (by sales through 2012/01/01 and 2022/09/30)
 
 ![Overall Market Share](https://user-images.githubusercontent.com/95849080/201589134-387fbc74-e8e8-4edb-beab-9358f8700984.jpg)
 
