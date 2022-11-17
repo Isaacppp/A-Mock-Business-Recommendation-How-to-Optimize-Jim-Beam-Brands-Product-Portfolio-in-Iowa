@@ -113,7 +113,7 @@ To save time, I will answer the quantitative questions and then investigate furt
   * Checked the outliers
   * Contains 3847 records that show “0.0” dollar per bottle → excluded these record from table
 
-[Check query record Here](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/query_record_liquor_cleaning)
+[Check query record Here](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_query_record_liquor)
 
 ##### Vendor
 
