@@ -178,7 +178,7 @@ Firstly, in order to draw the middle line in the growth rate axis in the matrix,
 **The overall CAGR of Iowa liquor market is: 5.55%**
 (Note: this is for market that each bottle ≤ USD 100, from Q4 2012 to Q3 2022)
 
-- CAGR of each category
+- Then, I got each CAGR as data point in Y-axis for each category.
 
 ![CAGR of each category](https://user-images.githubusercontent.com/95849080/201590530-50eb2781-62f4-4d43-b73b-9f7b913fccde.jpg)
 
