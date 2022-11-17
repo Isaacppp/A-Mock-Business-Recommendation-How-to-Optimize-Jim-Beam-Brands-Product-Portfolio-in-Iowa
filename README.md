@@ -46,7 +46,7 @@ Especially Rum and Gin, as they have had the least growth rate (near 0%) since 2
 
   - This dataset contains the spirits purchase information of Iowa Class “E” liquor licensees by product and date of purchase from January 1, 2012 to September 30th, 2022.
 
-  - There are 25.1 million rows with 24 columns, each row is an individual product purchase.
+  - There are 24.8 million rows with 24 columns, each row is an individual product purchase.
 
   - You can find it on Bigquery public dataset or access the same via the link:
   [https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy)
