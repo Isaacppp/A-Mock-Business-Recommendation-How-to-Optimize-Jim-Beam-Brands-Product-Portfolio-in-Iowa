@@ -186,7 +186,7 @@ Firstly, in order to draw the middle line in the growth rate axis in the matrix,
 
 #### 4. Relative Market Share
 
-- Below table shows a clear overview of relative market share that Jim Beam Brands and the leading rival stand in each category.
+- To get the data point on X-axis for each category, I queried Jim Beam Brands’ relative market share. For a clearer overview, below table tells the relative market share of Jim Beam Brands (the first right in below table), and who is the leading rival in each category.
 
 ![Relative Market Share](https://user-images.githubusercontent.com/95849080/201593164-6dbac934-642b-411f-964e-1c622ff793ef.jpg)
 
