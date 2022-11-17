@@ -33,7 +33,7 @@ Especially Rum and Gin, as they have had the least growth rate (near 0%) since 2
 ## Table of Contents
   - [About the Dataset](#about-the-dataset)
   - [My Approach to Solve this Problem](#my-approach-to-solve-this-problem)
-  - [Technical Approach This Project](#technical-aspect-about-this-project)
+  - [Technical Approach in This Project](#technical-aspect-about-this-project)
   - [Limitation of This Analysis](#limitation-of-this-analysis)
   - [Data Cleaning](#data-cleaning)
   - [Data Analyzing](#data-analyzing)
