@@ -247,13 +247,11 @@ We will find that in a 3 years interval, other than "Tequila", the growth rate o
 
 For next step, I'd like to look into three areas:
 
-- Profitability: I will look into the profitability of each category and narrow down to “which” product to identify which exact product(s) to invest or divest. Then it can be further identified that how much the profit would be increased by investing more or divest from specific categories.
+- Profitability: I will look into the profitability of each category and narrow it down to “which” product to identify which exact product(s) to invest in or divest. Then it can be further identified how much the profit would be increased by investing more or divesting from specific categories.
 
-- Sales Trend: After the profitability check, I will dive into the sales trend of each product in each category to support the decision making of which exact product(s) to invest more or divest.
+- Sales Trend: After the profitability check, I will dive into the sales trend of each product in each category to support the decision-making of which exact product(s) to invest more or divest.
 
-- Risks: Look into whether divesting the categories will negatively impact the brand name. And investigate whether it will give to much share to competitors.
-
-Before that, let's take a break and have a good drink.
+- Risks: Look into whether divesting the categories will negatively impact the brand name. And investigate whether it will give too much share to competitors.
 
 ## References
 
