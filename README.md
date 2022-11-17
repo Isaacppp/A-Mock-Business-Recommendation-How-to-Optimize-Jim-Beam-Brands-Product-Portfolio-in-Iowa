@@ -198,9 +198,9 @@ As the top 10 market share holder in each category control the big majority liqu
 
 - Average relative market share of top 10 vendors in each category
 
-Note: as the leading rival’s relative market share is 1, so every leading rival’s relative market share is excluded (only 9 relative market share in top 10 in each category is used to count the average)
-
 The average relative market share is: **0.208**
+
+Note: as the leading rival’s relative market share is 1, so every leading rival’s relative market share is excluded (only 9 relative market share in top 10 in each category is used to count the average)
 
 [Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_relative_market_share)
 
