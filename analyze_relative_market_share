@@ -1,7 +1,7 @@
 /*
 Queries in this page:
   1. Get a table of overview of relative market share
-  2. Market share of top 10 vendors in each category
+  2. Total market share of top 10 vendors in each category
   3. Calculate average relative market share of top 10 vendors for all categories
 */
 
@@ -93,7 +93,7 @@ FROM
 ORDER BY main_category;
 
 /*
-2. Market share of top 10 vendors in each category
+2. Total market share of top 10 vendors in each category
 */
 
 --fiscal calendar
