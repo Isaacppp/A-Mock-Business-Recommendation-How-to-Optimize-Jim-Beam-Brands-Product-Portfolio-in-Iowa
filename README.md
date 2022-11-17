@@ -206,13 +206,22 @@ Note: as the leading rival’s relative market share is 1, so every leading riva
 
 #### 5. Draw the Growth-Share Matrix
 
-Note: As category: “OTHERS” is not listed in specific market. And “SPECIALTY” mostly contains special packages that are not regular product. I won't dive into these 2 categories for the time being.
+After collecting all the data points necessary, the growth-share matrix can be drawn as following: 
+(Note: As category: “OTHERS” is not listed in specific market. And “SPECIALTY” mostly contains special packages that are not regular product. I didn’t dive into these 2 categories for the time being.)
 
 - Growth Share Matrix of Jim Beam Brand’s products
 
 ![growth_share matrix](https://user-images.githubusercontent.com/95849080/201596098-a5ee5cb3-50b8-42ba-bb09-f6b6d6d3ff39.jpg)
 
-In order to decide what the next step can be taken given the growth-share matrix currently available, I want to find out the growing momentum of each category.
+What the matrix tells:
+
+- Whiskey product is Jim Beam Brands’ cash cow that is the most competitive and generating the most revenue among all the categories.
+
+- Tequila product is Jim Beam Brands’ star as the growth rate of the Tequila market is far greater than the overall liquor market and Jim Beam Brands control a competitive amount of market share.
+
+- Other categories are relatively plain in terms of growth rate and Jim Beam Brands' relative market share.
+
+In order to strengthen what the growth-share matrix tells, by finding out the growing momentum of each category will help to make decision.
 
 #### 6. Calculate Growth Rate Momentum of each Category
 
