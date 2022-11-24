@@ -14,6 +14,8 @@ I queried the dataset in Google #Bigquery, and picked Jimbeam as the vendor in t
 
 **The material and the information contained in this presentation and in any documentation attached to it are for my personal case study purpose only. It does not constitute an offer, true business recommendation to any person and/ or organization.**
 
+![preview](https://user-images.githubusercontent.com/95849080/203690183-fbee9540-79a9-4317-a9c2-be8cc5e1beef.png)
+
 ## Business Recommendation
 
 For distribution channels of grocery, liquor and convenience stores in Iowa, the business recommendation I have for Jim Beam Brands are:
