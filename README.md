@@ -115,7 +115,7 @@ To save time, I will answer the quantitative questions and then investigate furt
   * Checked the outliers
   * Contains 3847 records that show “0.0” dollar per bottle → excluded these record from table
 
-[Check query record Here](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_query_record_liquor)
+[Check query record Here](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_query_record_liquor.sql)
 
 ##### Vendor
 
@@ -124,9 +124,9 @@ To save time, I will answer the quantitative questions and then investigate furt
   * Exclude NULL values (7 records with total 102 bottles missing)
   * Cleaned for the name consistency of every vendor name, e.g. extra “s” or “.” etc and unify the naming for each vendor. There were 549 distinct records (including NULL) to 427 distinct record (including NULL). **So there are total 425 vendors used in the analysis.**
 
-[Check query record Here](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_query_record_vendor)
+[Check query record Here](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_query_record_vendor.sql)
 
-[[Check Full Code Here]](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_full_query)
+[[Check Full Code Here]](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/clean_full_query.sql)
 
 ## Data Analyzing
 
