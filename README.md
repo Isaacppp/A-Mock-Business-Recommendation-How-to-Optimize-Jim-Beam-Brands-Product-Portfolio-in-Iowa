@@ -184,7 +184,7 @@ Firstly, in order to draw the middle line in the growth rate axis in the matrix,
 
 ![CAGR of each category](https://user-images.githubusercontent.com/95849080/201590530-50eb2781-62f4-4d43-b73b-9f7b913fccde.jpg)
 
-[Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_market_growth)
+[Code in this part of analysis](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/analyze_market_growth.sql)
 
 #### 4. Relative Market Share
 
@@ -204,7 +204,7 @@ The average relative market share is: **0.208**
 
 Note: as the leading rival’s relative market share is 1, so every leading rival’s relative market share is excluded (only 9 relative market share in top 10 in each category is used to count the average)
 
-[Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_relative_market_share)
+[Code in this part of analysis](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/analyze_relative_market_share.sql)
 
 #### 5. Draw the Growth-Share Matrix
 
@@ -233,7 +233,7 @@ We will find that in a 3 years interval, other than "Tequila", the growth rate o
 
 ![cagr_change_over_years](https://user-images.githubusercontent.com/95849080/202111162-7ed63beb-8eb2-4e80-a2a2-c61c87e86bff.jpg)
 
-[Code in this part of analysis](https://github.com/Isaacppp/Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa-Area/blob/main/analyze_growth_rate_momentum)
+[Code in this part of analysis](https://github.com/Isaacppp/A-Mock-Business-Recommendation-How-to-Optimize-Jim-Beam-Brands-Product-Portfolio-in-Iowa/blob/main/analyze_growth_rate_momentum.sql)
 
 ## Key Takeaways
 
